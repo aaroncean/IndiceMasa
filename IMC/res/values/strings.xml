@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IndiceMasaCorporalV3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo">Índice de Masa Corporal</string>
+    <string name="peso">Introduzca peso:</string>
+    <string name="altura">Introduzca altura:</string>
+    <string name="boton">Calcular IMC</string>
+    <string name="resultadoIMC"></string>
+    <string name="clasificacionIMC"></string>
+    <string name="acercaDe">Práctica IES Fernando Wirtz - 2014</string>
+    <string name="botonOK">OK</string>
+    <string name="acercade">IES Fernando Wirtz 2014</string>
+    <string name="botonAcercaDe">OK</string>
+    <string name="botonAD">Acerca de...</string>
+    <string name="realizadopor">Programa realizado por Javier Quintela Fernández</string>
+
+</resources>
